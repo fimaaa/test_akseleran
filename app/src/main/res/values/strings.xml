@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test_akseleran</string>
+    <string name="the_list">The List</string>
+    <string name="descending">Descending</string>
+    <string name="question_1">Question 1</string>
+    <string name="ascending">Ascending</string>
+    <string name="question_2">Question 2</string>
+    <string name="question_alghoritm">Question Alghoritm</string>
+    <string name="the_design_of_bfs">The Design of BFS</string>
+    <string name="search_the_value">Search the Value</string>
+</resources>
